@@ -38,7 +38,7 @@ The baseline strategy produced strong returns but came with large volatility and
 
 - **95% Monte Carlo VaR:** -2.63% daily
 - **Historical VaR:** -2.43%
-- **Parametric VaR:** 2.85% (not reliable in crypto)
+- **Parametric VaR:** 2.60% (not reliable in crypto)
 
 Monte Carlo simulations better reflected tail risk behavior in volatile markets like crypto.
 
