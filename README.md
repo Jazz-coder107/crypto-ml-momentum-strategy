@@ -1,5 +1,9 @@
 # Machine Learning Momentum Strategy on Crypto Assets
 
+<p align="center">
+  <img src="charts/ml_vs_baseline_returns.png" alt="Strategy Comparison" width="80%">
+</p>
+
 ## Overview
 
 This project implements and compares a traditional momentum-based strategy and a machine learning-based forecast model on four major cryptocurrencies: BTC, ETH, SOL, and XRP. It simulates realistic weekly rebalancing, long/short portfolio construction, and risk management using Value-at-Risk (VaR) with Monte Carlo simulations.
